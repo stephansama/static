@@ -1,3 +1,6 @@
 #!/bin/sh
 
 curl -o glyphnames.json https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/glyphnames.json
+curl -o FiraCodeNerdFont-Regular.ttf https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/FiraCode/Regular/FiraCodeNerdFont-Regular.ttf
+curl -o FiraCodeNerdFontMono-Regular.ttf https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/FiraCode/Regular/FiraCodeNerdFontMono-Regular.ttf
+curl -o FiraCodeNerdFontPropo-Regular.ttf https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/FiraCode/Regular/FiraCodeNerdFontPropo-Regular.ttf
