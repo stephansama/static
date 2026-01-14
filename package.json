@@ -1,0 +1,16 @@
+{
+  "name": "static",
+  "private": true,
+  "scripts": {
+    "build:skill-icons": "bun run ./skill-icons.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}
